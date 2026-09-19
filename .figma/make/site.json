@@ -1,0 +1,11 @@
+{
+  "title": "Agente Inteligente Controlador de Temperatura",
+  "description": "This interactive web application simulates a temperature control agent, allowing users to visualize decision-making, memory usage, and learning processes in real-time.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
